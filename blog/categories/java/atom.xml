@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Blog for Test]]></title>
-  <link href="http://jkaoshi.tk/atom.xml" rel="self"/>
+  <title><![CDATA[Category: java | Blog for Test]]></title>
+  <link href="http://jkaoshi.tk/blog/categories/java/atom.xml" rel="self"/>
   <link href="http://jkaoshi.tk/"/>
   <updated>2012-05-29T19:35:38+08:00</updated>
   <id>http://jkaoshi.tk/</id>
@@ -41,15 +41,6 @@
 <li>second</li>
 </ol>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[first_post]]></title>
-    <link href="http://jkaoshi.tk/blog/2012/05/29/first-post/"/>
-    <updated>2012-05-29T16:38:00+08:00</updated>
-    <id>http://jkaoshi.tk/blog/2012/05/29/first-post</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
