@@ -4,7 +4,7 @@
   <title><![CDATA[Blog for Test]]></title>
   <link href="http://jkaoshi.tk/atom.xml" rel="self"/>
   <link href="http://jkaoshi.tk/"/>
-  <updated>2012-05-29T20:37:28+08:00</updated>
+  <updated>2012-05-29T20:49:28+08:00</updated>
   <id>http://jkaoshi.tk/</id>
   <author>
     <name><![CDATA[jkaoshi]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[测试中文]]></title>
+    <link href="http://jkaoshi.tk/blog/2012/05/29/chinese-test/"/>
+    <updated>2012-05-29T20:45:00+08:00</updated>
+    <id>http://jkaoshi.tk/blog/2012/05/29/chinese-test</id>
+    <content type="html"><![CDATA[<h1>中文标题1</h1>
+
+<p>吼吼……</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[second article]]></title>

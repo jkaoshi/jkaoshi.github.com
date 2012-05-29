@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: java | Blog for Test]]></title>
-  <link href="http://jkaoshi.tk/blog/categories/java/atom.xml" rel="self"/>
+  <title><![CDATA[Category: c | Blog for Test]]></title>
+  <link href="http://jkaoshi.tk/blog/categories/c/atom.xml" rel="self"/>
   <link href="http://jkaoshi.tk/"/>
   <updated>2012-05-29T20:49:28+08:00</updated>
   <id>http://jkaoshi.tk/</id>
@@ -21,37 +21,6 @@
     <content type="html"><![CDATA[<h1>中文标题1</h1>
 
 <p>吼吼……</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[second article]]></title>
-    <link href="http://jkaoshi.tk/blog/2012/05/29/second-article/"/>
-    <updated>2012-05-29T19:24:00+08:00</updated>
-    <id>http://jkaoshi.tk/blog/2012/05/29/second-article</id>
-    <content type="html"><![CDATA[<h1>Title 1</h1>
-
-<p>hi</p>
-
-<p>`</p>
-
-<pre><code>public class Hello{
-    public static void main(){
-        System.out.println("Hello...");
-    }
-
-}
-</code></pre>
-
-<p>`</p>
-
-<h2>Titile 2</h2>
-
-<ol>
-<li>first</li>
-<li>second</li>
-</ol>
-
 ]]></content>
   </entry>
   
